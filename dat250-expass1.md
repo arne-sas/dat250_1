@@ -3,6 +3,7 @@
 I first installed the java Development Environment
 Then I downloaded the maven zip and extracted it in a specific folder
 > I had some issues with installing Maven correctly, but I forgot to add maven to the path of my system variables.
+
 I checked whether my development environment was working by entering the following commands:
 * java -version
 * echo %JAVA_HOME%
