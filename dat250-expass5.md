@@ -19,9 +19,11 @@ Whitelabel error page
 No problems
 ### Experiment 3 - Rest Service
 [Code](https://github.com/arne-sas/dat250_1/tree/main/code/Assignment_5/rest)
+
 No problems
 ### Experiment 4 - Data Access
 [Code](https://github.com/arne-sas/dat250_1/tree/main/code/Assignment_5/accessingdatajpa)
+
 Importing the wrong import for logger
 
 -> imported the right import
